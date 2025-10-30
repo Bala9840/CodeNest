@@ -11,7 +11,7 @@ CodeNest is a simple and interactive **online code compiler** where users can se
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack   
 - **Frontend**: React, CSS, JavaScript  
 - **Backend**: Piston API  
 - **Compiler**: Piston API for code execution
