@@ -16,7 +16,7 @@ CodeNest is a simple and interactive **online code compiler** where users can se
 - **Backend**: Piston API  
 - **Compiler**: Piston API for code execution
 
-## 🌴 Project File Structure   
+## 🌴 Project File Structure    
 
 ```
 src/
